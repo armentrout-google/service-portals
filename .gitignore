@@ -29,3 +29,9 @@ cargo-portal/terraform/load-test/packages.txt
 # Test directories
 cargo-portal/terraform-1n/
 cargo-portal/terraform-2n/
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# Local build artifacts and test certificates
+.build/
